@@ -1,0 +1,19 @@
+{
+  "name": "k4_pembeliandistributor",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Pembelian Distributor\r ==",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasa-coooo/K4_PembelianDistributor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasa-coooo/K4_PembelianDistributor/issues"
+  },
+  "homepage": "https://github.com/sasa-coooo/K4_PembelianDistributor#readme"
+}
