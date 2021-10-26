@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 26 Okt 2021 pada 15.19
+-- Waktu pembuatan: 26 Okt 2021 pada 15.52
 -- Versi server: 10.4.18-MariaDB
 -- Versi PHP: 8.0.3
 
@@ -32,7 +32,8 @@ CREATE TABLE `tb_admin` (
   `nama_admin` varchar(255) NOT NULL,
   `email_admin` varchar(255) DEFAULT NULL,
   `password_admin` varchar(255) NOT NULL,
-  `username_admin` varchar(255) DEFAULT NULL
+  `username_admin` varchar(255) DEFAULT NULL,
+  `nama_kaca` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
