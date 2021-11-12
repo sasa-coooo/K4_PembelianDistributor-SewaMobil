@@ -1,6 +1,14 @@
 Sistem Informasi Pembelian Distributor
 ==
 
+Informasi
+--
+
+Untuk Dokumen Kebutuhan dari Sistem Informasi ini bisa di cek melalui 
+
+[Dokumen] (/Docs/)
+
+
 Anggota Kelompok 
 --
 
