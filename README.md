@@ -6,7 +6,7 @@ Informasi
 
 Untuk Dokumen Kebutuhan dari Sistem Informasi ini bisa di cek melalui 
 
-[Dokumen] (/Docs/)
+1. [Dokumen](Docs/)
 
 
 Anggota Kelompok 
