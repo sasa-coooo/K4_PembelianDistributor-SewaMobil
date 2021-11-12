@@ -7,7 +7,6 @@ Informasi
 Untuk Dokumen Kebutuhan dari Sistem Informasi ini bisa di cek melalui 
 
 1. [Dokumen](Docs/)
-2. [bonus](https://xnxx.xxx)
 
 
 Anggota Kelompok 
