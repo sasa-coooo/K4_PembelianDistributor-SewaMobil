@@ -24,3 +24,13 @@ Pembagian Pekerjaan Tugas SRS
 - 5200411521 - Mengerjakan Bagian Kebutuhan Referensi dan Modifikasi Pendahuluan
 - 5200411025 - Mengerjakan Bagian Deskripsi Umum 
 - 5200411140 - Mengarahkan Bentuk SI, Memodifikasi Deskripsi Umum dan Pendahuluan
+
+
+Pembagian Pekerjaan Tugas SDD 
+-- 
+
+- 5200411175 - Mengerjakan bagian pendahuluan dan Design Database
+- 5200411521 - mengerjakan bagian pendahuluan Full
+- 5200411025 - Mengerjakan Bagian Layout/User Interface Pada SDD 
+- 5200411140 - Koordinasi Pekerjaan, Design Diagram, Design Database dan Mengarahkan Bentuk SI 
+
