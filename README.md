@@ -36,8 +36,17 @@ Pembagian Pekerjaan Tugas SDD
 
 
 Pembagian Pekerjaan SQL DDL, DML, DCL dan TCL
+--
 
 - 5200411175 - DDL 
 - 5200411521 - DML 
 - 5200411025 - TCL 
 - 5200411140 - DCL 
+
+Pembagian Pekerjaan Tugas Minggu-6 
+-- 
+
+- 5200411175 - Perbaiki Database Scheme + Design Figma Mobile 
+- 5200411521 - Arsitektur Sistem + Input Output 
+- 5200411025 - Design Figma Mobile Web 
+- 5200411140 - Design Sketsa Mobile Web App + Design Figma Mobile
