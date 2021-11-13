@@ -34,3 +34,10 @@ Pembagian Pekerjaan Tugas SDD
 - 5200411025 - Mengerjakan Bagian Layout/User Interface Pada SDD 
 - 5200411140 - Koordinasi Pekerjaan, Design Diagram, Design Database dan Mengarahkan Bentuk SI 
 
+
+Pembagian Pekerjaan SQL DDL, DML, DCL dan TCL
+
+- 5200411175 - DDL 
+- 5200411521 - DML 
+- 5200411025 - TCL 
+- 5200411140 - DCL 
