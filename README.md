@@ -7,6 +7,7 @@ Informasi
 Untuk Dokumen Kebutuhan dari Sistem Informasi ini bisa di cek melalui 
 
 1. [Dokumen](Docs/)
+2. [Diagram](https://drive.google.com/drive/folders/1k-r20TER2mTzx6L6NC2sPeVq83KCNABf?usp=sharing)
 
 
 Anggota Kelompok 
