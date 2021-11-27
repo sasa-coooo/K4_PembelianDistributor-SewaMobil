@@ -51,3 +51,12 @@ Pembagian Pekerjaan Tugas Minggu-6
 - 5200411521 - Arsitektur Sistem + Input Output 
 - 5200411025 - Design Figma Mobile Web 
 - 5200411140 - Design Sketsa Mobile Web App + Design Figma Mobile
+
+
+pembagian Pekerjaan RAD minggu-8
+--
+
+- 5200411175 - mencari referensi dan kebutuhan sistem soft dan hardware
+- 5200411521 - mencari referensi Jurnal dan mengelola kebutuhan input dan output 
+- 5200411025 - mencari referensi, mengelola kebutuhan hardware & software dan merevisi dokumen
+- 5200411140 - mengelola,mengarahkan, bertanggung jawab, mempresentasikan, mencari referensi dan merevisi dokumen
