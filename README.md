@@ -53,7 +53,7 @@ Pembagian Pekerjaan Tugas Minggu-6
 - 5200411140 - Design Sketsa Mobile Web App + Design Figma Mobile
 
 
-pembagian Pekerjaan RAD minggu-8
+Pembagian Pekerjaan RAD minggu-8
 --
 
 - 5200411175 - mencari referensi dan kebutuhan sistem soft dan hardware
