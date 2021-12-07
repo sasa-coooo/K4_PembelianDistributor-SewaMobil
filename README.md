@@ -8,6 +8,7 @@ Untuk Dokumen Kebutuhan dari Sistem Informasi ini bisa di cek melalui
 
 1. [Dokumen](Docs/)
 2. [Diagram](https://drive.google.com/drive/folders/1k-r20TER2mTzx6L6NC2sPeVq83KCNABf?usp=sharing)
+3. [ReCar](https://github.com/sasa-coooo/K4_ReCar)
 
 
 Anggota Kelompok 
@@ -60,3 +61,11 @@ Pembagian Pekerjaan RAD minggu-8
 - 5200411521 - mencari referensi Jurnal dan mengelola kebutuhan input dan output 
 - 5200411025 - mencari referensi, mengelola kebutuhan hardware & software dan merevisi dokumen
 - 5200411140 - mengelola,mengarahkan, bertanggung jawab, mempresentasikan, mencari referensi dan merevisi dokumen
+
+Revisi RAD
+-- 
+
+- 5200411175 - Revisi Use Case Diagram, Desain Data Ulang
+- 5200411521 - Revisi Kebutuhan Sequence Diagram
+- 5200411025 - Revisi Design ui + Developer 
+- 5200411140 - Revisi Diagram, Revisi Dokumen, Evaluasi, Design dan Developer
