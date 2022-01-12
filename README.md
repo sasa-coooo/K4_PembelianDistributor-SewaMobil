@@ -69,3 +69,30 @@ Revisi RAD
 - 5200411521 - Revisi Kebutuhan Sequence Diagram
 - 5200411025 - Revisi Design ui + Developer 
 - 5200411140 - Revisi Diagram, Revisi Dokumen, Evaluasi, Design dan Developer
+
+
+Scrum Re-Car
+-- 
+
+- 5200411175 - Scrum Dokumen
+- 5200411521 - Scrum Dokumen
+- 5200411025 - Revisi dan modifikasi Program Aplikasi web
+- 5200411140 - Revisi dan Modifikasi dokumen serta Program aplikasi
+
+
+Agile TDD 
+--
+
+- 5200411175 - Agile Dokumen Bab 1 + Power Point
+- 5200411521 - Agile Dokumen Bab 2 dan Referensi 
+- 5200411025 - Agile Dokumen Bab3 dan Referensi
+- 5200411140 - Agile Dokumen Bab 1,2 dan 3 + Power Point
+
+
+DevOps - Deploy - Docker
+--
+
+- 5200411175 - Docker Dokumen Bab 3,4 + Power Point (Revisi PPT)
+- 5200411521 - Docker Dokumen Bab 4 + Power Point (Dari Awal)
+- 5200411025 - Docker Dokumen Bab 2 dan Referensi
+- 5200411140 - Docker Dokumen Bab 1 + Referensi + Power Point(Revisi PPT) 
